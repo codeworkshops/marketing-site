@@ -1,0 +1,16 @@
+weight: 4
+title: "Online Lessons"
+description: >
+  <ul class="list-style-none">
+    <li>Weekly lessons</li>
+    <li>Learn at your own pace</li>
+  </ul>
+
+  <h4>
+  No previous coding experience required to get started with our Courses.
+  </h4>
+  <h4>
+  Get help and guidance on Coding practice exercices and challenges.  
+  </h4>
+
+image: "img/carousel/template-easy-code.png"
