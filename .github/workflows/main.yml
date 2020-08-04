@@ -27,7 +27,7 @@ jobs:
           personal_token: ${{ secrets.HUGO_SITE}}
           # external_repository: codeworkshops/codeworkshops.github.io
           publish_dir: ./public
-          #   keep_files: true
+          keep_files: true
           user_name: codeworkshops 
           user_email: info@codeworkshops.com
           publish_branch: master
