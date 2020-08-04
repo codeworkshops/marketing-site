@@ -31,5 +31,5 @@ jobs:
           user_name: codeworkshops 
           user_email: info@codeworkshops.com
           publish_branch: master
-        #   cname: example.com
+        #  cname: example.com
 
