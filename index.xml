@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CodeWorkshops</title>
+    <link>https://codeworkshops.com/</link>
+    <description>Recent content on CodeWorkshops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Nov 2018 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://codeworkshops.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>new website</title>
+      <link>https://codeworkshops.com/blog/2018/11/03/new-website/</link>
+      <pubDate>Sat, 03 Nov 2018 21:49:20 +0200</pubDate>
+      
+      <guid>https://codeworkshops.com/blog/2018/11/03/new-website/</guid>
+      <description>New website published.</description>
+    </item>
+    
+    <item>
+      <title>Coding Resources</title>
+      <link>https://codeworkshops.com/blog/2016/02/25/coding-resources/</link>
+      <pubDate>Thu, 25 Feb 2016 13:47:08 +0200</pubDate>
+      
+      <guid>https://codeworkshops.com/blog/2016/02/25/coding-resources/</guid>
+      <description>A list of Coding Resources around the Internet:
+ http://www.edutopia.org/blog/15-ways-teaching-students-coding-vicki-davis  </description>
+    </item>
+    
+    <item>
+      <title>About CWS </title>
+      <link>https://codeworkshops.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeworkshops.com/about/</guid>
+      <description>Headstart for Success Code Workshops is excited to offer summer computer workshop for second year in a row in the Shrewsbury area that is geared towards middle/high school kids. We teach middle/high school students computer programming/coding by offering half/full day summer workshops.
+For parents of teenagers who are looking for summer activities for their children our code workshops is a half/full day technology/computer workshop that teaches computer programming and coding.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://codeworkshops.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeworkshops.com/contact/</guid>
+      <description>Thanks for reviewing our website. Looking to get in touch with us? We&amp;rsquo;d love to hear from you!
+Please email or call us with any questions or comments. The best way to reach us is through Email.
+Contact Information:  General Inquiries: info@codeworkshops.com
+ Phone: 571-748-7280
+  CWS Team</description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://codeworkshops.com/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeworkshops.com/courses/</guid>
+      <description>CodeWorkshops offers various courses for different skill levels. We offer both free and paid courses. Courses are organized by student Level and we suggest that you start with Beginner level before moving to advanced levels.
+Introduction to Computer Programming The CodeWorkshops introduction to computer prgramming uses concepts of computational thinking to build simple and operational computer programs. Students start with blocks based computer programming to practice concepts and logic learned in the course.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://codeworkshops.com/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeworkshops.com/faq/</guid>
+      <description>Frequently asked questions and answers about the Code Workshops.
+1. What is the aest age to ctart Coding? You can start coding as early as 5 years. All our course material is suited for students that either in the 5th grade or higher.
+2. Do I need to have previous experience Coding? No. To get started with our Coding courses and/or lessons you do NOT need to have any previous experience.</description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://codeworkshops.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeworkshops.com/privacy/</guid>
+      <description>Welcome to the CodeWorkshops web site (“Site”) provided and owned by Disoka, Inc.. CodeWorkshops shares your concerns about maintaining the privacy of personal information collected on the Internet. The following privacy policy (“Privacy Policy”) discloses the information gathering and dissemination practices of CodeWorkshops in connection with this Site. Use of this Site constitutes consent to CodeWorkshops’ collection and use of personal data as outlined herein. By accessing, viewing, or using this Site, you, the User, indicate that you understand and intend this Privacy Policy to be the legal equivalent of a signed, written contract and equally binding, and that you agree to such Privacy Policy.</description>
+    </item>
+    
+    <item>
+      <title>Resources </title>
+      <link>https://codeworkshops.com/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeworkshops.com/resources/</guid>
+      <description>Resources Coding Resources such as tools, lessons, videos, and blog posts.
+Content coming soon.
+Jul 2020.</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://codeworkshops.com/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://codeworkshops.com/terms/</guid>
+      <description>This web page represents a legal document that serves as our Terms of Service and it governs the legal terms of our website, www.codeworkshops.com, sub-domains, and any associated web-based applications (collectively, “Website”), as owned and operated by Disoka, Inc.
+Capitalized terms, unless otherwise defined, have the meaning specified within the Definitions section below. This Terms of Service, along with our Privacy Policy, and other posted guidelines within our Website and at the Code Workshops, collectively “Legal Terms”, constitute the entire and only agreement between you and Disoka, Inc, and supersede all other agreements, representations, warranties and understandings with respect to our Website and the subject matter contained herein.</description>
+    </item>
+    
+  </channel>
+</rss>
