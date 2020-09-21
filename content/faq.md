@@ -6,9 +6,9 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 Frequently asked questions and answers about the Code Workshops.
 
-##### 1. What is the aest age to ctart Coding?
+##### 1. What is the best age to ctart Coding?
 
-You can start coding as early as 5 years. All our course material is suited for students that either in the 5th grade or higher.
+We think that Kids can start coding as early as 5 years where they can start reading simple instructions and start typing on a tablet/keyboard. All our course material is suited for students that either in the 5th grade or higher.
 
 
 ##### 2. Do I need to have previous experience Coding?
@@ -19,7 +19,7 @@ No. To get started with our Coding courses and/or lessons you do NOT need to hav
 
 Not too long. With 3-4 weeks of instructions and some practice you can start writing your own programs. Our lessons and practice exercises give you step by step information and instructions to get you comfortable and be proficient to write your own software programs.
 
-##### 4. How long does it take for a Course?
+##### 4. How long does a Course take?
 
 We offer various kinds of courses. Our introductory course consists of 4 lessons. This would take a complete beginner about 4-6 hours of effort per week for 4 weeks to cover all 4 lessons. 
 
