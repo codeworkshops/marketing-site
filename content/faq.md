@@ -6,7 +6,7 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 Frequently asked questions and answers about the Code Workshops.
 
-##### 1. What is the best age to ctart Coding?
+##### 1. What is the best age to start Coding?
 
 We think that Kids can start coding as early as 5 years where they can start reading simple instructions and start typing on a tablet/keyboard. All our course material is suited for students that either in the 5th grade or higher.
 
